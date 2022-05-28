@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
                   Icons.mail,
                   color: Colors.indigo,
                 ),
-                title: Text("idca@gmail.com"),
+                title: Text("isdsads@gmail.com"),
                 subtitle: Text("Correo electrónico"),
                 trailing: Icon(
                   Icons.check_circle_outline,
